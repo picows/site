@@ -2,3 +2,12 @@
 	path = themes/porto
 	url = https://gitlab.com/picows/porto.git
 	branch = main
+[submodule "plugins/40-Blog"]
+	path = plugins/40-Blog
+	url = https://gitlab.com/picows/blog.git
+[submodule "plugins/35-Util"]
+	path = plugins/35-Util
+	url = https://gitlab.com/picows/util.git
+[submodule "plugins/40-Contact"]
+	path = plugins/40-Contact
+	url = https://gitlab.com/picows/contact.git

@@ -1,1 +1,5 @@
-# This file is meant to be empty
+# Ignore everything in this directory
+*
+# Except these files
+!config.yml
+!config.yml.template

@@ -11,3 +11,6 @@
 [submodule "plugins/40-Contact"]
 	path = plugins/40-Contact
 	url = https://gitlab.com/picows/contact.git
+[submodule "plugins/40-Shop"]
+	path = plugins/40-Shop
+	url = http://gitlab.com/picows/shop.git
